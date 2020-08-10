@@ -1,4 +1,4 @@
-#  Melbourne Housing Marketing
+#  Melbourne Housing Marketing - Regression Analysis
 
 Data taken from kaggle https://www.kaggle.com/dansbecker/melbourne-housing-snapshot
 
